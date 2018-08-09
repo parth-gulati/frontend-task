@@ -64,7 +64,23 @@ body{
     transition: 2s;
 }
 
-li{
-  padding:50px 50px;
+#a{
+  padding-right:50px;
+  padding-top:7px;
+  padding-bottom:25px;
   font
+}
+#b{
+  padding-top:7px;
+  padding-right:50px;
+  padding:bottom:25px;
+}
+#c{
+  padding-top:7px;
+  padding-right:50px;
+  padding:bottom:25px;
+}
+#d{
+  padding-top:7px;
+  padding:bottom:25px;
 }
