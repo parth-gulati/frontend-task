@@ -64,23 +64,11 @@ body{
     transition: 2s;
 }
 
-#a{
-  padding-right:50px;
-  padding-top:7px;
-  padding-bottom:25px;
-  font
+li{
+  padding:70px 50px;
 }
-#b{
-  padding-top:7px;
-  padding-right:50px;
-  padding:bottom:25px;
-}
-#c{
-  padding-top:7px;
-  padding-right:50px;
-  padding:bottom:25px;
-}
-#d{
-  padding-top:7px;
-  padding:bottom:25px;
+
+#logo-main{
+  height:20%;
+  width:20%;
 }
